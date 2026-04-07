@@ -1,7 +1,11 @@
 aid: gamestop
-url: https://raw.githubusercontent.com/api-evangelist/gamestop/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/gamestop/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.gamestop.com
+description: >-
+  GameStop is a global multichannel video game, consumer electronics, and gaming merchandise
+  retailer operating retail stores and e-commerce sites.
