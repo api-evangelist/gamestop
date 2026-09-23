@@ -1,7 +1,9 @@
 ---
 title: GameStop announces multiyear strategic partnership with ...
 url: https://news.microsoft.com/source/2020/10/08/gamestop-announces-multiyear-strategic-partnership-with-microsoft/
-date: '2026-05-25'
+published: '2020-10-08'
+date_basis: url-derived
+harvested: '2026-05-25'
 query: '"GameStop" press release artificial intelligence'
 position: 4
 source: serpapi-google

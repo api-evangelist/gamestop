@@ -1,7 +1,9 @@
 ---
 title: Shares of GameStop surged more than 7% in premarket ...
 url: https://www.facebook.com/forbes/posts/shares-of-gamestop-surged-more-than-7-in-premarket-trading-early-on-monday-morni/1200531931936795/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"GameStop" press release artificial intelligence'
 position: 5
 source: serpapi-google

@@ -1,7 +1,9 @@
 ---
 title: GameStop, Artificial Intelligence, Social Media, and the ...
 url: https://rpc.cfainstitute.org/blogs/enterprising-investor/2021/gamestop-artificial-intelligence-social-media-and-the-future-of-investing
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"GameStop" press release artificial intelligence'
 position: 1
 source: serpapi-google

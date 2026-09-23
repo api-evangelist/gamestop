@@ -1,7 +1,9 @@
 ---
 title: eBay Confirms Receipt of Unsolicited Proposal from ...
 url: https://www.prnewswire.com/news-releases/ebay-confirms-receipt-of-unsolicited-proposal-from-gamestop-302761245.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"GameStop" press release artificial intelligence'
 position: 3
 source: serpapi-google

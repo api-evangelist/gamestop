@@ -1,7 +1,9 @@
 ---
 title: 'Gamestop and AI... : r/Superstonk'
 url: https://www.reddit.com/r/Superstonk/comments/1ibjuol/gamestop_and_ai/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"GameStop" press release artificial intelligence'
 position: 2
 source: serpapi-google
